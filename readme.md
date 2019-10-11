@@ -1,8 +1,8 @@
 # TUGAS 3 ASISTENSI PBO - Jumat, 4 Oktober 2019
 
-NAMA: `isi nama disini`
+NAMA: OKTAVIANA LARASATI
 
-NRP: `isi nrp disini`
+NRP: 06111840000107
 
 ## Deskripsi Soal
 Buat class **LinearEquation** untuk sistem persamaan linear 2x2:
@@ -37,13 +37,13 @@ Karena penyebut nya 0, maka tidak memiliki solusi.
 ## Soal
 Input 	: 12 5 13 0 12 7
 
-Output	: ...
-
+Output	: 
+x = 0,54 ; 1,11
 
 Input 	: -18 9 10,5 11 0 0
 
-Output	: ...
-
+Output	: 
+x= -0.0, 0.0
 
 ### 1 extra mile
 soal opsional, tapi selesaikan semua soal di atas terlebih dahulu
@@ -51,7 +51,8 @@ soal opsional, tapi selesaikan semua soal di atas terlebih dahulu
 ![](/img/3.png)
 
 ## Screenshot hasil
-masukkan screenshot output disini
+![Screenshot (21)](https://user-images.githubusercontent.com/49663453/66624272-b1a18180-ec19-11e9-9e3d-01a5c69f9860.png)
+![Screenshot (22)](https://user-images.githubusercontent.com/49663453/66624320-deee2f80-ec19-11e9-8040-3beda94c63b9.png)
 
 ## Upload
 upload seluruh folder project java-nya ke repository ini
